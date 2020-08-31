@@ -5,9 +5,9 @@ FILE=Notizen_Blockwoche_TA.OEK_F20
 TARGET=notes/*.md
 OUTFORMAT=.pdf
 
-all: $(FILE)$(OUTFORMAT) clean
+all: compile clean
 
-$(FILE)$(OUTFORMAT): $(TARGET)
+compile: $(TARGET)
 	pandoc -s $(PARAMS) $(FONTS) $(DATE) $(TARGET) -o $(FILE)$(OUTFORMAT)
 
 clean:

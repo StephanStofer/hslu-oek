@@ -1,6 +1,6 @@
 # hslu-oek
 Notizen zur Blockwoche  TA.BA_OEK
-## Prerequisite to compile
+## Prerequisites
 * [make](https://www.gnu.org/software/make/)
 * [pandoc](https://pandoc.org/)
 * [latex](https://www.latex-project.org/get/#tex-distributions)

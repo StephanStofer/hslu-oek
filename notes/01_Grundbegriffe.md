@@ -4,26 +4,26 @@
 * Umstände, Objekte oder Verhältnisse, die einen umgeben. Komplexe; Klima, Boden und Lebewesen) Faktoren die auf Organismen einwirken.
 * Umwelt beinhaltet alles was uns umgibt
 * auf Folien nachschauen..
-## Ökologie
+## Ökologie  
 * Ursprung; Lehre der Umwelt
 * Zweig der Biologie -> Wechselwirkung und Beziehung zwischen Organismen und ihrer physischen Umgebung
-## Ökosysteme
+## Ökosysteme  
 * Abgrenzbares Beziehungsgefüge von Organismen
 * nicht lebende Bestandteile
 * Energie
-### Beispiele
+### Beispiele  
 * tropischer Regenwald
 * Korallenriff
 * Wüste (wird dominanter)
 * Fluss/Seen
 * Gesamter Planet (Gaia)
-## Nachhaltigkeit
+## Nachhaltigkeit  
 * Beschreibt die Fähigkeit ein bestimmtes Verhältnis oder Niveau aufrechtzuerhalten.
 * Ein Bedürfniss, der heitgen Generation entspricht ohne die Möglichkeiten künftiger Generationen zu gefährden. Ihre eigenen Bedürfnisse zu befriedigen und ihren Lebensstil zu wählen.
 * Bedeutet die menschliche Lebensqualität zu verbessern und die Belastbarkeit von unterstützenden Ökosystemen nicht zu überschreiten (unep und wwf)
 * Fähigkeit der versch. natürlichen Systemen der Erde, kulturellen Systeme und Ökonomien in verändernden Umweltbedingungen zu überleben und sich anzupassen:
 	* SIEHE folie (Gleichheit Systeme Ökonomie, Gleichheit und Umwelt
-## Naturkapital
+## Naturkapital  
 * Kapital = Sachwert
 * natürliche Ressourcen + Dienstleistungen
 ### natürliche Ressourcen

@@ -37,7 +37,7 @@
 * Kapital = Sachwert
 * natürliche Ressourcen + Dienstleistungen
 
-![Naturkapital](notes/images/Naturkapital.png "Naturkapital")
+![Naturkapital](notes/images/Naturkapital.png "Naturkapital"){width=75%}
 
 ### natürliche Ressourcen
 * erneuerbare (Wasser, Pflanzen, Wind)
@@ -130,5 +130,5 @@ Verschmutzungsvermeidung ist nachhaltiger und kostengünstiger!
 * Bevölkerungskontrolle; Konkurrenz um beschränkte Ressourcen
 * Biodiversität; Artenvielfalt, ermöglicht Lebenwesen sich an veränderte Umweltbedingungen anzupassen
 
-![Biodiversität](notes/images/biodiversity.png "Biodiversität")
+![Biodiversität](notes/images/biodiversity.png "Biodiversität"){width=50%}
 

@@ -7,18 +7,19 @@ System setzt sich aus einer Reihe von Bestandteile zusammen, die regulär Funkti
 * Stoff- und Energieflüsse
 * Ausgangsgrössen in die Umwelt
 
-![Modell der Wirtschaft](notes/images/model-of-economy.png "Modell der Wirtschaft")
+![Modell der Wirtschaft](notes/images/model-of-economy.png "Modell der Wirtschaft"){width=50%}
 
 ## Systemdenken - System-Thinking
 Ganzheitlicher analytischer Ansatz mit Fokus auf Wechselbeziehung zw. Systembestandteile. Wie ist das Systemverhalten über die Zeit, wie verhält sich das System im Kontext mit verbundennen/angrenzenden Systemen. Wird in unterschiedlichen Bereichn verwendet zur Modellierung (Medizin, Ingenieurswesen, Wissenschaften, etc.)
 
 ### Feedback-Mechanismen
-Jedes System reagiert auf Veränderungen (Reaktion).
+Jedes System reagiert auf Veränderungen (Reaktion). 
 
 #### Positiver Feedback-Mechanismus (feedback loop)
-**reinforcing loop** bringt das System dazu sich in die gleiche Richtung zu verändern
 
-![Reinforcing loop am Beispiel einer abnehmenden Vegetation](notes/images/reinforcing_loop.png)
+Ein **reinforcing loop** bringt das System dazu sich in die gleiche Richtung zu verändern.
+
+![Reinforcing loop am Beispiel einer abnehmenden Vegetation](notes/images/reinforcing_loop.png){width=60%}
 
 ##### Beispiele
 * menschliche Bevölkerung
@@ -26,7 +27,7 @@ Jedes System reagiert auf Veränderungen (Reaktion).
 * Rückgang der Vegetation
 
 #### negativer Feedback-Mechanismus
-**balancing loop** bringt System dazu sich in die entgegengesetzte Richtung zu verändern
+Ein **balancing loop** bringt System dazu sich in die entgegengesetzte Richtung zu verändern.
 
 ##### Beispiele
 * Ölpreis

@@ -8,22 +8,22 @@ Das Klima unterliegt natürlichen Schwankungen
 * In der Atmosphäre gab es in der Vergangenheit immer wieder ausgedehnte Perioden der globalen Kühlung und Erwärmung
 * Abwechselnde Zyklen der Kühlung und Erwärmung werden als Eiszeit und Zwischeneiszeit bezeichnet.
 
-![Mittlere Temperatur der letzten 900'000 Jahre](notes/images/mittlere_temp.png){width=75%}
+![Mittlere Temperatur der letzten 900'000 Jahre](notes/images/mittlere_temp.png){width=50%}
 
 ### Milankovic-Zyklen
 Serbischen Mathematiker entwickelte in den 1930er Jahre den Zyklus. Die Theorie benennt drei Schwankungen:
 
 1. Umlaufbahn der Erde verändert sich immer wieder von nahezu kreisförmig bis leicht elliptisch. Die Zyklusdauer ist etwa 100'000 Jahre. Grösster Einfluss auf Wärmeschwankungen.
 
-![Schwankungen der Umlaufbahn](notes/images/veraenderung_umlaufbahn.png){width=75%}
+![Schwankungen der Umlaufbahn](notes/images/veraenderung_umlaufbahn.png){width=25%}
 
 2. Die Schiefheit - Neigungswinkel der Erdachse schwankt zwischen 22.1° und 24.5°. Die Zyklusdauer dauert 41'000 Jahre. Landmasse der nördlichen Hemisphäre neigt sich mehr / weniger der Sonne zu. Führt zur Erwärmung / Kühlung
 
-![Schwankungen der Schiefheit](notes/images/schiefheit.png){width=75%}
+![Schwankungen der Schiefheit](notes/images/schiefheit.png){width=15%}
 
 3. Richtung der Achsenneigung ändert sich (Präzession genannt). Zyklusdauer von 26'000 Jahre. Verursacht wärmere oder kältere Winter, je nachdem wie viel Landmasse der zugeneigt ist.
 
-![Schwankungen der Achsenneigung](notes/images/praezession.png){width=75%}
+![Schwankungen der Achsenneigung](notes/images/praezession.png){width=15%}
 
 Anteil $CO_2$ in Eis korreliert mit der Temperatur. Je mehr $CO_2$ umso höher die Temperatur.
 
@@ -59,13 +59,14 @@ Vulkane können einen erheblichen Einfluss auf das Erdklima haben. Durch Ausbrü
 #### Albedo-Effekt
 Ist das Reflexionsvermögen einer Oberfläche. Misst die Absorbtionsstärke einer Oberfläche. Grösstes Reflexionsvermögen hat Neuschnee, gefolgt von Altschnee und Wüstensand. Die Menge der ankommenden Strahlung, die reflektiert wird, beeinflusst das Temperaturniveau erheblich. Der Albedo der Erde ist nicht konstant, sondern variiert mit der Jahreszeit - beeinflusst von der antarktischen Meereisdecke und Schneedecke des Festlandes. Verschwinden der antarktischen Meereisdecke und Schneedecke auf dem Festland würde die Temperatur auf der Erde um bis zu 3.5°C erhöhen.
 
-![Albedo-Effekt](notes/images/albedo.png)
+![Albedo-Effekt](notes/images/albedo.png){width=60%}
 
 ## Anthropogener Klimawandel
 
 ### Heutiges Klima
 Seit 10'000 Jahren befindet sich das Klima der Erde in einer Zwischeneiszeit. Es zeichnet sich durch ein relativ stabiles Kluma und einer relativ konstanten globalen Durchschnittstemperatur an der Oberfläche aus. Ermöglichte die Landwirtschaft und verursacht Bevölkerungswachstum.
-![Temperaturänderung nach Zeit](notes/images/heutiges-klima_1.png)
+
+![Temperaturänderung nach Zeit](notes/images/heutiges-klima_1.png){width=50%}
 
 Seit dem letzten Jahrhundert steigt jedoch die Temperatur.
 
@@ -96,13 +97,14 @@ Merkmale für das Treibhauspotential ist der Faktor wie das Gas mehr Wärme zur�
 ### Abschmelzen von Permafrost
 Permafrost bezeichnet einen Boden mit einer Temparatur unterhalb des Gefrierpunktes von zwei oder mehr Jahren. Die Methanmenge in Permafrostböden beträgt 50-60 mal mehr als die aktuelle Menge an $CO_2$ durch die Verbrennung fossiler Brennstoffe. 10-20% des Permafrostes könnte innerhalb dieses Jahrhunderts verschwinden.
 
-![Gebiete mit Permafrost](notes/images/permafrost.png)
+![Gebiete mit Permafrost](notes/images/permafrost.png){width=50%}
 
 ### Abschmelzen von Schnee und Eis
 Die arktische Schneedecke nahm in den letzten 30 Jahren um 10%. In naher Zukunft wird es kein Sommer ohne schwimmendes Meereis geben. Gebirgsgletscher schmelzen und verschwinden in vielen Teilen der Welt. Schmelzendes Meereis führt nicht zu einem steigenden Meeresspiegel, Festlandeis hingegen schon.
 
 ### Steigender Meeresspiegel
 Durchschnittlicher Meeresspiegel könnte in diesem Jahrzehnt bis um 60 steigen. Einerseits durch schmelzen des Landeises (1/3), sowie durch die Ausdehnung des Wassers (2/3) infolge der höheren Temperatur. Wenn Grönlands Gletscher den irreversiblen Kipppunkt erreichen könnte der Meeresspiegel um 1-2 Meter ansteigen und hätte grosse Klimafolgen:
+
 * Abtragung von ca. 1/3 der Küstengebieten, Sumpfgebiete und Korallenriffe
 * Beeinträchtigung der küstennahen Fischerei
 * Überflutung von Tiefebenen in Küstengebieten
@@ -115,6 +117,7 @@ Durchschnittlicher Meeresspiegel könnte in diesem Jahrzehnt bis um 60 steigen. 
 
 ## Folgen für Menschen
 ### Nahrung
+
 * Landwirtschaftliche Ertragsfähikeit wird in manchen Gebieten steigen, in anderen sinken
 * Ernteproduktivität wird voraussichtlich in mittleren bis höheren Breitengraden
 * Landwirtschaftliche Ertragfähigkeit wird in Tropen und Subtropen schwinden
@@ -122,6 +125,7 @@ Durchschnittlicher Meeresspiegel könnte in diesem Jahrzehnt bis um 60 steigen. 
 * Unterernährung/Hunger durch die Folgen des Klimawandels
 
 ### Gesundheit
+
 * Hitzebedingtes Sterben wird steigen, Kältetode hingegen weniger. 
 * Bessere Lebensbedingungen für sich schnellvermehrende Insekten, Mikroben, gifitige Pilze
 * Infektionskrankheiten werden sich wahrscheinlich ausbreiten
@@ -130,12 +134,14 @@ Durchschnittlicher Meeresspiegel könnte in diesem Jahrzehnt bis um 60 steigen. 
 
 ## Reduktionsstrategien
 Die Verbesserung der Energieeffizienz um Einsatz fossiler Brennstoffe zu reduzieren. Übergang von nicht erneuebaren Brennstoffe zu erneuerbaren Energiequellen. Ende der Abholzung troposcher Regenwälder.Effektivität dieser Strategien würde dirch geringere Bevölkerung wesentlich verstärkt werden:
+
 * Weniger $CO_2$-Verursacher
 * Weniger Armut
 * Abnehmender Bedarf an Landfläche für Ernte und Brennstoffe
 * realisierbar?
 
 ### Geo-Engineering
+
 * Aufnahem und Speicherung von $CO_2$ und in den Boden einlassen
 * Zufuhr von Sulfatpartikeln in die Stratosphäre (Vulkane nachahmen), reflektiert einfallende Sonnenstrahlung
 * Weltraum-Sonnenschirm

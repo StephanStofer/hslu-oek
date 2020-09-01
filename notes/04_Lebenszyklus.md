@@ -6,6 +6,7 @@ LCA = Life Cycle Assessment
 Eine Ökobilanz is ein objektives Vorgehen zur Bewertung von Umweltbelastungen die mit einem Produkt, Prozess oder einer Aktivität in Verbindung stehen. Sie erfordert die Identifizierung der eingesetzten Materialien und der Energie sowie der freigesetzten Abfälle.
 
 ## Vier Phasen der Ökobilanzierung
+
 1. Festlegung von Ziel und Untersuchungsrahmen (welche Gegenstände ziehe ich mit ein)
 2. Sachbilanz (LCI) - Sammlung relevanter Ein- und Ausgangsgrössen (Energieflüsse, Wasser, Transporte)
 3. Wirkungsabschätzung (LCIA): Bewertung der potentiellen Umweltauswirkungen im Zusammenhang mit Ein- und Ausgängen (Wie viel der Schadstoffe hat welche Auswirkung -> Gewicht CO2 Anteil an Erwärmung)
@@ -16,6 +17,7 @@ Die Bilanzierung ist ein iterativer Prozess.
 ![Prozess der Ökobilanzierung](notes/images/oekobilanz.png)
 
 ### Festlegung von Ziel und Untersuchungsrahmen
+
 * Breite und Tiefe der Studie wird definiert
 * Ziel sollte eine Begründung für die Durchführung der Ökobilanz beinhalten
 * Untersuchungsrahmen sollte folgendes enthalten
@@ -37,18 +39,21 @@ cradle to cradle: von der Wiege zur Wiege
 
 ### Sachbilanz (LCI)
 Datenerhebung ist Teil der Ökobilanz, welche alle relevanten Prozesse des System berücksichtigt. Bestimmung und Quantifizierung aller Ein- und Ausgänge des Systems:
+
 * Rohstoffe oder Materialien
 * Art und Menge der Energie
 * Wasserverbrauch
 * Emissionen durch bestimmte Substanzen in der Luft, Wasser und im Boden
 
 ### Wirkungsabschätzung (LCIA)
+
 * Bewertung der Grössenordnung und Bedeutung von möglichen Umweltauswirkungen
 * Wirkungsabschätzung wird in folgende Schritte aufgeteilt:
    - Klassifizierung und Charakterisierung
    - Normalisierung und Gewichtung
 
 #### Wirkungsabschätzung (LCIA) - Wirkungskategorien (ICs)
+
 * Wirkungskategorien stellen Umweltprobleme dar
 * Ergebnisse der Sachbilanz werden verschiedenen Wirkungskategorien zugeordnet
 * Es gibt keine internationale Vereinbarung darüber, welche Kategorien angewendet werden müssen

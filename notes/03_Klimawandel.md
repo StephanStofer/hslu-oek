@@ -8,32 +8,31 @@ Das Klima unterliegt natürlichen Schwankungen
 * In der Atmosphäre gab es in der Vergangenheit immer wieder ausgedehnte Perioden der globalen Kühlung und Erwärmung
 * Abwechselnde Zyklen der Kühlung und Erwärmung werden als Eiszeit und Zwischeneiszeit bezeichnet.
 
-![Mittlere Temperatur der letzten 900'000 Jahre](notes/images/mittlere_temp.png)
+![Mittlere Temperatur der letzten 900'000 Jahre](notes/images/mittlere_temp.png){width=75%}
 
 ### Milankovic-Zyklen
 Serbischen Mathematiker entwickelte in den 1930er Jahre den Zyklus. Die Theorie benennt drei Schwankungen:
 
 1. Umlaufbahn der Erde verändert sich immer wieder von nahezu kreisförmig bis leicht elliptisch. Die Zyklusdauer ist etwa 100'000 Jahre. Grösster Einfluss auf Wärmeschwankungen.
 
-![Schwankungen der Umlaufbahn](notes/images/veraenderung_umlaufbahn.png)
+![Schwankungen der Umlaufbahn](notes/images/veraenderung_umlaufbahn.png){width=75%}
 
 2. Die Schiefheit - Neigungswinkel der Erdachse schwankt zwischen 22.1° und 24.5°. Die Zyklusdauer dauert 41'000 Jahre. Landmasse der nördlichen Hemisphäre neigt sich mehr / weniger der Sonne zu. Führt zur Erwärmung / Kühlung
 
-![Schwankungen der Schiefheit](notes/images/schiefheit.png)
+![Schwankungen der Schiefheit](notes/images/schiefheit.png){width=75%}
 
 3. Richtung der Achsenneigung ändert sich (Präzession genannt). Zyklusdauer von 26'000 Jahre. Verursacht wärmere oder kältere Winter, je nachdem wie viel Landmasse der zugeneigt ist.
 
-![Schwankungen der Achsenneigung](notes/images/praezession.png)
+![Schwankungen der Achsenneigung](notes/images/praezession.png){width=75%}
 
-Anteil $CO_2$ in Eis korreliert mit der Temperatur. Je mehr $CO_2$ umso höher die Temperatur.$CO_2$
+Anteil $CO_2$ in Eis korreliert mit der Temperatur. Je mehr $CO_2$ umso höher die Temperatur.
 
 ### Sonnenflecken
 Sonnenflecken veriieren hinsichtlich Grössen und Anzahl. Aufzeichnungen seit dem 18. JH zeigen, dass die Anzahl der Sonnflecken zyklisch verläuft. Zyklus zwischen Höchstewerte beträgt 11 Jahre.
 
 * Innerhalb eines Sonnenflecks liegt ein starkes Magnetfeld vor
 * Richtung des Magnetfeldes kehrt sich alle 11 Jahre um -> Sonnenfleck-Zyklus beträgt 11 Jahre.
-* Die Anzahl der Sonnenflecken verändert Solarstrahlung -> Solarstrahlung steigt mit der Anzahl der Sonnenflecken
-etwas verpasst??
+* Die Anzahl der Sonnenflecken verändert Solarstrahlung -> Solarstrahlung steigt mit der Anzahl der Sonnenflecken und bewirkt globaler Temperaturanstieg.
 
 ### Oszillation
 Oszillation sind weniger regelmässige Zyklen, die von ein paar Monaten bis zu mehreren Jahrzehnten andauern können. Die Ursache ist bisher noch weitestgehend unbekannt. Auswirkungen auf globales Wettergeschehen sind jedoch hinreichend bekannt. Oszillation werden im Allgemeinen anhand von Änderungen des Luftdrucks, der Meerestemperatur und der Windrichtung über Ozeane bestimmt. Es gibt drei Haupt-Oszillation:

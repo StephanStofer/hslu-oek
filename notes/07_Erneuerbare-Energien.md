@@ -36,6 +36,7 @@ Produzieren Strom aus geothermischen Quellen.
 
 ## Biomasse
 Sämtliches durch Photosynthese direkt oder indirekt erzeugtes organisches Material, das nicht durch geologische Prozesse verändert wurde. Biomasse ist $CO_2$ neutral, da bei der energetischen Nutzung gleich viel $CO_2$ freigesetzt wird, wie ursprünglich aus der Luft gebunden wurde. Aus Biomasse kann Wärme, Strom oder Treibstoff gewonnen werden.
+
 * Holzartige trockene Biomasse (z.B. Holz); Verbrennung und Vergasung
 * Wenig verholzte, nasse Biomasse (z.B. Gülle und Mist, biogene Abfälle); Vergärung
 * Energiepflanzen; Biodiesel

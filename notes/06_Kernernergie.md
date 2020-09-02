@@ -39,7 +39,7 @@ Wasser, Alu, Beton, Eisen und Blei sind für alle drei Teilchen gute Abschirmung
 ![Abschirmung](notes/images/abschirmung.png)
 
 ## Halbwertszeit und Aktivität
-Der radioaktive Zufall ist echt zufällig und statistischer Natur, der Zerfall kann nicht vorauszusagen. Bei grosser Anzahl radioaktiver Kerne gehorcht die Anzahl radioaktiver Kerne mit einem exponentiellen Zerfall mit einer Halbwertszeit.
+Der radioaktive Zerfall ist echt zufällig und statistischer Natur, er kann nicht vorausgesagt werden. Bei grosser Anzahl radioaktiver Kerne gehorcht die Anzahl radioaktiver Kerne mit einem exponentiellen Zerfall mit einer Halbwertszeit.
 
 ### Halbwertszeit
 Gibt an, wie lange es dauert, bis noch die Hälfte der ursprüngliche Menge radioaktiver Kerne übrig bleibt.
@@ -57,7 +57,7 @@ Jährlich werden aus den 5 CH-Reaktoren 60-75 Tonnen verbrauchte, hochradioaktiv
 Radioaktivtät ist Teil der Natur. Die Betrachtung wird der Strahlungsart und -energie als Äquivalenzdosis bezeichnet und in Sievert ($Sv$) angegeben.
 
 #### Gefährlichkeit radioaktiver Strahlung
-Kontamination (Verunreinigung) mit radioaktivem Material, die zu andauernder Bestrahlung führt. Inkorporation (Aufnahme) radioaktiver Substanzen in den Körper durch Einatmen oder Essen/Trinken. Verstrahlt bedeuetet - analog der Verbrennung - eine durch Bestrahlung hervorgerufene erhebliche Schädigung oder Verletzung. Die Gefahr geht dabei nicht von der Radioaktivität sonder von der daraus ausgehende ionisierenden Strahlung verantwortlich.
+Kontamination (Verunreinigung) mit radioaktivem Material, die zu andauernder Bestrahlung führt. Inkorporation (Aufnahme) radioaktiver Substanzen in den Körper durch Einatmen oder Essen/Trinken. Verstrahlt bedeuetet - analog der Verbrennung - eine durch Bestrahlung hervorgerufene erhebliche Schädigung oder Verletzung. Die Gefahr geht dabei nicht von der Radioaktivität aus, sondern von der daraus ausgehenden ionisierenden Strahlung.
 
 **Grenzwerte**
 

@@ -2,7 +2,7 @@
 
 ## Umwelt
 * Umgebung oder die Gegenbenheit in der eine Person, Tier oder Pflanze lebt oder agiert.
-* Umstände, Objekte oder Verhältnisse, die einen umgeben. Komplexe; Klima, Boden und Lebewesen) Faktoren die auf Organismen einwirken.
+* Umstände, Objekte oder Verhältnisse, die einen umgeben. Komplexe Faktoren (Klima, Boden und Lebewesen) die auf Organismen einwirken.
 * Umwelt beinhaltet alles was uns umgibt
 * beinhaltet komplexes Netz von Beziehungen, das uns untereinander und mit der Welt in der wir leben verbindet.  
 
@@ -47,7 +47,7 @@
 * Ökosysteme stelle diese kostenlos zur Verfügung
 * Nährstoffkreislauf: Umlauf von chemischen Stoffen aus Umwelt durch Organismen und wieder zurück an Umwelt
 
-#### Beispiele
+#### Beispiele natürliche Dienstleistungen
 * Wasserzyklus (Reinigung, Salz- zu Süsswasser)
 * Photosynthese
 * Atmosphäre (Ozonschicht: UV-Filter)
@@ -56,6 +56,7 @@
 
 ### Sonnen-/Solarkapital
 Sonne wird als separates Kapitalgut betrachtet, weil sie nicht Teil des Planets Erde ist.
+
 * Ohne Sonnenenergie würde jegliches Naturkapital kollabieren
 * ohne Photosynthese gäbe es keine erneuerbaren Energien wie Wind, fliessende Gewässe oder Biokraftstoffe
 * gilt als forwährende Ressource
@@ -63,35 +64,36 @@ Sonne wird als separates Kapitalgut betrachtet, weil sie nicht Teil des Planets 
 # Grundfragen
 
 ## Leben wir in einer nachhaltigen Gesellschaft?
-Nein, zwar gäbe es für viele Probleme Lösungen, jedoch sind wissenschaftliche Lösungen keine politischen Lösungen. Diese Lösungen erfordern Gesetze und Bestimmungen. Konflikte zwischen Interessengruppen und Kompromisse
+Nein, zwar gäbe es für viele Probleme Lösungen, jedoch sind wissenschaftliche Lösungen keine politischen Lösungen. Diese Lösungen erfordern Gesetze und Bestimmungen. Konflikte zwischen Interessengruppen und Kompromisse.
 
 ### Bevölkerungswachstum
-Seit industrielle Revolution steig Bevölkerungszahl exponetiell. Als Folge werden erneuerbare Ressourcen immer knapper, weil sie über den nachhatligen Ertrag hinaus abgebaut.
+Seit der industrielle Revolution stieg Bevölkerungszahl exponetiell. Als Folge werden erneuerbare Ressourcen immer knapper, weil sie über den nachhatligen Ertrag hinaus abgebaut.
 
 #### Nachhaltiger Ertrag
-Höchste Rate zu der eine erneuerbare Ressource auf unbestimmte Zeit genutzt werden kann, ohne deren verfügbares Angebot zu schmälern. Das Überschreiten dieser Rate führt zu Umweltzerstörung (Übernutzung)
+Höchste Rate zu der eine erneuerbare Ressource auf unbestimmte Zeit genutzt werden kann, ohne deren verfügbares Angebot zu schmälern. Das Überschreiten dieser Rate führt zu Umweltzerstörung (Übernutzung).
 
-# Wie können Auswirkungen auf die Umwelt gemessen werden?
+## Wie können Auswirkungen auf die Umwelt gemessen werden?
 
-## Ökologischer Fussabdruck
+### Ökologischer Fussabdruck
 Menge an Wasser und biologisch produktivem Land das nötig ist, um Menschen mit Ressourcen zu versorgen und um entstehende Abfälle sowie Verschmutzung durch die Nutzung dieser Ressourcen aufzunehmen und zu verwerten. Einfacher; notwendiger Anteil der Umwelt, um erforderliche Güter und DL herzustellen und einen bestimmten Lebensstandard aufrechtzuerhalten.
 
-## Ökologisches Defizit
-Der ökologische Fussabdruck eines Landes ist grösser als dessen biologische Kapazität erneuerbare Ressourcen wieder aufzustocken und entstehende Abfallprodukte sowie Verschmutzung aufzunehmen
+### Ökologisches Defizit
+Der ökologische Fussabdruck eines Landes ist grösser als dessen biologische Kapazität erneuerbare Ressourcen wieder aufzustocken und entstehende Abfallprodukte sowie Verschmutzung aufzunehmen.
 
-## Ökologischer Fussabdruck pro Kopf
-Schätzung des Ressourcenverbrauchs eines Individuums. Misst den Verbrauch von natürlichen Ressourcen anhand der Anzahl an globalen Hektar (gha) die man benötigen würde um diese Ressourcen zu 
+### Ökologischer Fussabdruck pro Kopf
+Schätzung des Ressourcenverbrauchs eines Individuums. Misst den Verbrauch von natürlichen Ressourcen anhand der Anzahl an globalen Hektar (gha) die man benötigen würde um diese Ressourcen zu erneuern.
 
-## Aktueller ökologischer Fussabdruck
-Fussabdruck der Menschheit übersteigt die biologische Kapazität der Erde um ca. 25-30%. Davon 88% entfallen auf Industrieländer. Länder mit dem grösseten ökologischen Fussabdruck (gha/pers) sind VAE, Katar, Dänemark, Belgien, USA, Estland, Kanada, Australien, Kuwait
+### Aktueller ökologischer Fussabdruck
+Fussabdruck der Menschheit übersteigt die biologische Kapazität der Erde um ca. 25-30%. Davon 88% entfallen auf Industrieländer. Länder mit dem grösseten ökologischen Fussabdruck (gha/pers) sind VAE, Katar, Dänemark, Belgien, USA, Estland, Kanada, Australien, Kuwait.
 
-### Biokapazität
-Ist die Fähigkeit von Ökosystemen, die von Menschen genutzten biologischen Materialien zu produzieren und Abfallmaterialien aufzunehmen
+#### Biokapazität
+Ist die Fähigkeit von Ökosystemen, die von Menschen genutzten biologischen Materialien zu produzieren und Abfallmaterialien aufzunehmen.
 
 # Umweltverschmutzung
 
 ## Definition
 Verschmutzung kann partikulär sein oder gasförmig und mindert die Qualität der Materie.
+
 ## Klassifizierung
 * Klassifizierung der Verschmutzung in drei Bereiche (Luft/Atmosphäre, Wasser und Boden).
 * Wer bzw. was verursacht die Verschmutzung; menschen- oder natürliche Verschmutzung (Vulkanausbruch)

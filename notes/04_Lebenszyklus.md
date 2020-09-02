@@ -3,7 +3,7 @@
 LCA = Life Cycle Assessment
 Ökobilanzen untersuchen Umweltaspekte und potenzielle Auswirkungen entlang des gesamten Produktlebenszyklus von der Rohmaterialbeschaffung, Produktion, Nutzung bis hin zur Entsorgung. Umweltaspekte umfassen Ressourcennutzung, menschliche Gesundheit und ökologische Konsequenzen (ISO 14040).
 
-Eine Ökobilanz is ein objektives Vorgehen zur Bewertung von Umweltbelastungen die mit einem Produkt, Prozess oder einer Aktivität in Verbindung stehen. Sie erfordert die Identifizierung der eingesetzten Materialien und der Energie sowie der freigesetzten Abfälle.
+Eine Ökobilanz ist ein objektives Vorgehen zur Bewertung von Umweltbelastungen die mit einem Produkt, Prozess oder einer Aktivität in Verbindung stehen. Sie erfordert die Identifizierung der eingesetzten Materialien und der Energie sowie der freigesetzten Abfälle.
 
 ## Vier Phasen der Ökobilanzierung
 
@@ -20,14 +20,14 @@ Die Bilanzierung ist ein iterativer Prozess.
 
 * Breite und Tiefe der Studie wird definiert
 * Ziel sollte eine Begründung für die Durchführung der Ökobilanz beinhalten
-* Untersuchungsrahmen sollte folgendes enthalten
+* Untersuchungsrahmen sollte folgendes enthalten:
    - Funktion des betrachteten Systems (insbesondere Primärfuntion)
-   - **Funktionelle Einheit**
+   - Die **Funktionelle Einheit**
    - Systemgrenzen (einschliesslich Annahmen und Einschränkungen)
    - Datenanforderungen (akkurat und präzise, Alter, Quelle)
    - Art der Wirkungsabschätzung-Methodik (LCIA)
 * Funktionelle Einheit (z.B. Emissionen je 1kWh)
-   - Gibt an auf welche Einheit welche sich die Ein- und Ausgänge beziehen
+   - Gibt an, auf welche Einheit, sich welche die Ein- und Ausgänge beziehen
    - Ermöglicht den Vergleich zwischen unterschiedlichen Systemen
 * Wenn keine fundierte Vermutung gemacht werden kann, muss die Stufe ausdrücklich von der Ökobilanz ausgeschlossen werden.
 
@@ -35,10 +35,11 @@ Primäre Daten sind selber erhobene Daten, sekundäre Daten sind von Dritten erh
 
 ### Umfang bzw. Dauer der Ökobilanz
 cradle to grave: von der Wiege bis zur Bare
+
 cradle to cradle: von der Wiege zur Wiege
 
 ### Sachbilanz (LCI)
-Datenerhebung ist Teil der Ökobilanz, welche alle relevanten Prozesse des System berücksichtigt. Bestimmung und Quantifizierung aller Ein- und Ausgänge des Systems:
+Datenerhebung ist Teil der Ökobilanz, welche alle relevanten Prozesse des Systems berücksichtigt. Bestimmung und Quantifizierung aller Ein- und Ausgänge des Systems:
 
 * Rohstoffe oder Materialien
 * Art und Menge der Energie
@@ -55,7 +56,7 @@ Datenerhebung ist Teil der Ökobilanz, welche alle relevanten Prozesse des Syste
 #### Wirkungsabschätzung (LCIA) - Wirkungskategorien (ICs)
 
 * Wirkungskategorien stellen Umweltprobleme dar
-* Ergebnisse der Sachbilanz werden verschiedenen Wirkungskategorien zugeordnet
+* Ergebnisse der Sachbilanz werden den verschiedenen Wirkungskategorien zugeordnet
 * Es gibt keine internationale Vereinbarung darüber, welche Kategorien angewendet werden müssen
 * Mögliche Wirkungskategorien:
    - Globale Erwärmung/Klimawandel

@@ -13,4 +13,7 @@ header-includes:
         \let\originAlParaGraph\paragraph
         \renewcommand{\paragraph}[1]{\originAlParaGraph{#1} \hfill}
         ```
+output: 
+  pdf_document:
+    extra_dependencies: ["flafter"]
 ---
